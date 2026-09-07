@@ -113,7 +113,7 @@ export default function Footer() {
             Technical Helpline
           </p>
           <a
-            href="tel:0449853255"
+            href="tel:61460329050"
             className="text-2xl md:text-xl lg:text-2xl font-black text-red mb-6 transition-transform hover:scale-105 cursor-pointer w-fit underline decoration-2 underline-offset-8 block"
           >
             +61 460 329 050
