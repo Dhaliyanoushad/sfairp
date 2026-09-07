@@ -114,7 +114,7 @@ export default function Navbar() {
           <div className="w-full max-w-xs h-[1px] bg-gray-100 my-1" />
 
           <a
-            href="tel:0449853255"
+            href="tel:61460329050"
             className={`flex items-center gap-3 text-xl font-bold ${navyColor}`}
             onClick={() => setIsOpen(false)}
           >
